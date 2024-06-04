@@ -18,3 +18,7 @@ http://127.0.0.1:5500/index.html
 
 ## Screenshot of Application
 ![Screenshot 2024-06-03 214637](https://github.com/Megannx/Horiseon-Website-Coding-Challenge-Week1/assets/170055576/ede23446-d4e2-4ffb-9713-019109549682)
+
+
+## Resources/Anti-Plagiarism 
+Website was provided/owned by: Horiseon Social Solution Services, Inc.
