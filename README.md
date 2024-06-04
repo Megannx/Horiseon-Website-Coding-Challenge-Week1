@@ -1,6 +1,6 @@
 # Horiseon-Website-Coding-Challenge-Week1
 
-##Description
+## Description
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -13,8 +13,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-##Link to Application
+## Link to Application
 http://127.0.0.1:5500/index.html
 
-##Screenshot of Application
+## Screenshot of Application
 ![Screenshot 2024-06-03 214637](https://github.com/Megannx/Horiseon-Website-Coding-Challenge-Week1/assets/170055576/ede23446-d4e2-4ffb-9713-019109549682)
